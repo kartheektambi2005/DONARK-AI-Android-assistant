@@ -1,0 +1,98 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Synaptic Connection Lines -->
+    <path
+        android:pathData="M34,40 L54,32 M34,40 L54,54 M34,40 L54,76"
+        android:strokeWidth="1.8"
+        android:strokeColor="#38BDF8"
+        android:strokeAlpha="0.75" />
+    <path
+        android:pathData="M34,68 L54,32 M34,68 L54,54 M34,68 L54,76"
+        android:strokeWidth="1.8"
+        android:strokeColor="#38BDF8"
+        android:strokeAlpha="0.75" />
+    <path
+        android:pathData="M54,32 L74,42 M54,32 L74,66"
+        android:strokeWidth="1.8"
+        android:strokeColor="#818CF8"
+        android:strokeAlpha="0.75" />
+    <path
+        android:pathData="M54,54 L74,42 M54,54 L74,66"
+        android:strokeWidth="2.2"
+        android:strokeColor="#00F0FF"
+        android:strokeAlpha="0.9" />
+    <path
+        android:pathData="M54,76 L74,42 M54,76 L74,66"
+        android:strokeWidth="1.8"
+        android:strokeColor="#818CF8"
+        android:strokeAlpha="0.75" />
+
+    <!-- Center Hub Outer Glow -->
+    <path
+        android:fillColor="#1E40AF"
+        android:fillAlpha="0.45"
+        android:pathData="M54,54m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#0284C7"
+        android:fillAlpha="0.6"
+        android:pathData="M54,54m-8,0a8,8 0 1,0 16,0a8,8 0 1,0 -16,0" />
+
+    <!-- Nodes - Input Layer (Left) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,40m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,40m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0" />
+
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,68m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,68m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0" />
+
+    <!-- Nodes - Hidden Layer (Center Top & Bottom) -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,32m-4.5,0a4.5,4.5 0 1,0 9,0a4.5,4.5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,76m-4.5,0a4.5,4.5 0 1,0 9,0a4.5,4.5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,76m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Nodes - Center Core Hub -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,54m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <!-- Nodes - Output Layer (Right) -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M74,42m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,42m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0" />
+
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M74,66m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,66m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0" />
+</vector>
+

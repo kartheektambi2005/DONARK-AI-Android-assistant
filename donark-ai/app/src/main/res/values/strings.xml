@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DONARK AI</string>
+    <string name="accessibility_service_label">DONARK AI Screen Awareness &amp; Automation</string>
+    <string name="accessibility_service_description">Enables DONARK AI to observe screen hierarchy, interact with applications, automate search submissions, and verify tasks on your behalf.</string>
+    <string name="floating_assistant_desc">DONARK Floating Neural Assistant</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_listening">Listening</string>
+    <string name="status_thinking">Thinking</string>
+    <string name="status_executing">Executing</string>
+    <string name="status_verifying">Verifying</string>
+    <string name="status_success">Success</string>
+    <string name="status_failed">Failed</string>
+</resources>

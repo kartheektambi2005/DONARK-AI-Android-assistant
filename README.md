@@ -3,7 +3,7 @@
 **DONARK AI Assistant** is a voice-controlled Android assistant designed to make smartphone interaction faster and more hands-free. It listens to custom voice commands and can perform actions such as opening applications, navigating screens, searching, scrolling, and interacting with supported apps.
 
 ## 🚀 Features
-
+     
 * 🎙️ **Voice-Controlled Interaction** — Control the assistant using natural voice commands.
 * 📱 **App Launching** — Open Android applications using voice commands.
 * 🧭 **Screen Navigation** — Navigate between applications and screens using accessibility automation.

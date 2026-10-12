@@ -14,7 +14,7 @@
 * ⚡ **Hands-Free Automation** — Execute multiple actions through custom commands.
 
 ## 🛠️ Tech Stack
-
+  
 * **Android**
 * **Java / Kotlin**
 * **Android SDK**
